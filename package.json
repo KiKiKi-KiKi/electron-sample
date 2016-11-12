@@ -1,0 +1,18 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Electron Sample",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chaika-design/electron-sample.git"
+  },
+  "author": "Chaika",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-pug": "^1.5.1"
+  }
+}
